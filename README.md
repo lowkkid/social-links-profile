@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://lowkkid.github.io/social-links-profile/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-with-react-Znf1cIQbxA)
+- Live Site URL: [GitHub Pages](https://lowkkid.github.io/social-links-profile/)
