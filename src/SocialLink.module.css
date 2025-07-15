@@ -1,0 +1,22 @@
+.link {
+    background-color: hsl(0, 0%, 20%);
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.link:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
+.link a {  
+    color: inherit;    
+    
+}
